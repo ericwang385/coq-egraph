@@ -8,7 +8,7 @@
 (generate_opam_files true)
 
 (package
- (name coq-shell)
+ (name coq-egraph)
  (synopsis "A formalized model of the EGraph.")
  (version 0.1)
  (depends
