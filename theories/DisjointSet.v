@@ -1,7 +1,5 @@
 From Coq Require Import
-    Sets.Ensembles
-    Arith
-    .
+    Arith.
 
 Section DisjointSet.
 
